@@ -1,0 +1,16 @@
+id: PDCFFD598
+initial_creation_type: input
+source_metadata:
+  title: Longsal Nyingpo Series
+  language: bo
+  description: 'Texts by and about the treasure-revealer Longsal Nyingpo (klong gsal
+    snying po, 1625–1692):'
+  volume:
+    d89deeb703324fc390d94938703d7089:
+      title: Maṇḍala Offering from Longsal Dorje Nyingpo
+      parent: Offering
+    29104bd9918f4c8280a0a05f221927d1:
+      title: 'The Essence of Benefit and Happiness: A Method for Saving Lives'
+      parent: Saving Lives
+created_at: '2022-03-01T00:42:31.843287'
+last_modified_at: '2022-03-01T00:42:31.843290'
